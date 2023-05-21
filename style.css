@@ -1,0 +1,32 @@
+body{
+    background-color: F8F9D7 !important;
+}
+
+.name {
+    color: black !important;
+}
+
+.btn-primary {
+    background-color: #6E85B7 !important;
+}
+
+.navbar-custom {
+    background-color: lightgreen;
+}
+
+.img-fluid {
+    border-radius: 50%;
+}
+
+#title{
+    margin-top: 60px !important;
+}
+
+.lead, .display-5{
+    color: #6E85B7 !important;
+}
+
+.button{
+    border:none !important;
+}
+
